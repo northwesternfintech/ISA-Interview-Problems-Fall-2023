@@ -1,2 +1,2 @@
-##Frontend Interview Problem
-Modify foreground.css to match the background
+Frontend Interview Problem
+- Modify foreground.css to match the background
