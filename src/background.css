@@ -1,0 +1,51 @@
+.background {
+    display: flex;
+    background-color: azure;
+    border-radius: 1em;
+    border: solid blue;
+    opacity: 0.6;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.background-layout {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.background-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 80%;
+}
+
+.background-sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 20%;
+}
+
+.background-header {
+    width: 100%;
+    height: 25%;
+}
+
+.background-main {
+    width: 100%;
+    height: 50%;
+}
+
+.background-footer {
+    width: 100%;
+    height: 25%;
+}
+
+.background-sidebar-item {
+    width: 100%;
+    height: calc(100%/3);
+}
