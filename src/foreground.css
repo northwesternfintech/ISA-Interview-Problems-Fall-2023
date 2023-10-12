@@ -1,0 +1,13 @@
+.foreground {
+    display: flex;
+    background-color: lightgrey;
+    border-radius: 1em;
+    border: solid grey;
+    opacity: 0.6;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+/* Modify code below */

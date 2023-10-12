@@ -5,14 +5,14 @@ const Foreground = () => {
     return (
         <div className='layout'>
             <div className='content'>
-                <div className='header' />
-                <div className='main' />
-                <div className='footer' />
+                <div className='foreground header'>Header</div>
+                <div className='foreground main'>Main</div>
+                <div className='foreground footer'>Footer</div>
             </div>
             <div className='sidebar'>
-                <div className='sidebar-item' />
-                <div className='sidebar-item' />
-                <div className='sidebar-item' />
+                <div className='foreground sidebar-item'>Sidebar Item</div>
+                <div className='foreground sidebar-item'>Sidebar Item</div>
+                <div className='foreground sidebar-item'>SIdebar Item</div>
             </div>
         </div>
     )
