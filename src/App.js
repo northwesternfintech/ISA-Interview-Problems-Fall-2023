@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
-import Background from './background';
-import Foreground from './foreground';
+import Background from './Background';
+import Foreground from './Foreground';
 
 function App() {
   return (
